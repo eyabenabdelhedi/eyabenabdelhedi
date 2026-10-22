@@ -51,7 +51,6 @@ This summer I built a web app end to end during my internship at **COFICAB** ✨
 <br>
 
 ### 💌 Let's connect
-🌐 Portfolio: *(add your link here)*
 💼 [LinkedIn](https://www.linkedin.com/in/eya-ben-abdelhedi-a09062308)
 📧 ibnabdelhedi.eya@gmail.com
 
