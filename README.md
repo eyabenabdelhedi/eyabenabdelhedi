@@ -27,6 +27,8 @@ This summer I built a web app end to end during my internship at **COFICAB** ✨
 <img src="https://img.shields.io/badge/C-B79CE8?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-E889AE?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-B79CE8?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E889AE?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-B79CE8?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-E889AE?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Odoo-B79CE8?style=for-the-badge&logo=odoo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Camunda-E889AE?style=for-the-badge&logo=camunda&logoColor=white"/>
