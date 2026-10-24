@@ -23,6 +23,8 @@ This summer I built a web app end to end during my internship at **COFICAB** ✨
 <p>
 <img src="https://img.shields.io/badge/Java-E889AE?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-B79CE8?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/VB.NET-E889AE?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-B79CE8?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-E889AE?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-B79CE8?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-E889AE?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -35,18 +37,6 @@ This summer I built a web app end to end during my internship at **COFICAB** ✨
 <img src="https://img.shields.io/badge/Ubuntu-B79CE8?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-E889AE?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-<br>
-
-### ✨ Projects
-| Project | What it is | Tools |
-|---|---|---|
-| 🐾 [Clinique Fawn](https://github.com/eyabenabdelhedi/clinique-fawn) | Veterinary clinic management app | C#, Windows Forms, ADO.NET |
-| ✈️ [AeroTunis](https://github.com/eyabenabdelhedi/aerotunis) | Airport database with triggers and procedures | Oracle XE, PL/SQL, Docker |
-| 🖼️ [Virtual Art Gallery](https://github.com/eyabenabdelhedi/galerie-art-virtuelle) | Artwork validation process | Camunda, BPMN, DMN |
-| 🏭 [Manufacturing Orchestrator](https://github.com/eyabenabdelhedi/manufacturing-orchestrator) | Multi-agent system for production analytics | Python, pandas, Tkinter |
-| 🔢 [Sudoku Solver](https://github.com/eyabenabdelhedi/sudoku-solver) | Constraint solving, compared with OR-Tools | Python, OR-Tools |
-| 📋 [Candidate Management](https://github.com/eyabenabdelhedi/gestion-candidatures) | Web app for a candidate database | PHP, SQL Developer |
 
 <br>
 
